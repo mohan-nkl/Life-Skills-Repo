@@ -10,6 +10,7 @@
 - Observe body language and tone
 - Ask questions if something is unclear
 - Repeat or summarize important points
+- Take notes wherever necessary
 - Show interest through nodding or short responses
 
 ---
@@ -32,8 +33,6 @@
 - Thinking about my reply before the other person finishes
 - Getting distracted easily
 - Sometimes assuming I already understood the point
-- Losing focus in long conversations
-- Checking phone or multitasking while listening
 
 ---
 
@@ -52,9 +51,7 @@
 ## Question 5
 ### When do you switch to Passive communication style in your day to day life?
 
-- When talking to strangers
 - In situations where I want to avoid conflict
-- When I feel the other person is more experienced
 - Sometimes in group discussions when I am unsure
 
 ---
@@ -62,8 +59,6 @@
 ## Question 6
 ### When do you switch into Aggressive communication styles in your day to day life?
 
-- When I get frustrated repeatedly
-- When someone does not listen properly
 - During stressful situations or deadlines
 - When I feel strongly about something
 
@@ -73,8 +68,6 @@
 ### When do you switch into Passive Aggressive communication styles in your day to day life?
 
 - When I get annoyed but do not say it directly
-- Sometimes through sarcasm with close friends
-- When I expect others to understand without me explaining
 - When I avoid discussing a problem openly
 
 ---
